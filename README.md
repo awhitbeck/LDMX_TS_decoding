@@ -3,8 +3,8 @@
 
 To compile:
 
-`g++ decode.cpp -o decode`
+`g++ decoder.cpp -o decoder`
 
 To run:
 
-`./decode ldmx_captan_out_07-04-2022_16-34-44__43.dat`
+`./decoder ldmx_captan_out_07-04-2022_16-34-44__43.dat`
